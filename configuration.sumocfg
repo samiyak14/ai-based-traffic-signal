@@ -6,8 +6,10 @@
         <!-- <route-files value='maps/routes4.rou.xml'/> -->
         <!-- <net-file value='maps/citysample.net.xml'/> -->
         <!-- <route-files value='maps/citysample.rou.xml'/> -->
-        <net-file value='maps/city1.net.xml'/>
-        <route-files value='maps/city1.rou.xml'/>
+       <input>
+    <net-file value="maps/intersection.net.xml"/>
+    <route-files value="maps/routes.rou.xml"/>
+</input>
     </input>
     <time>
         <begin value='0'/>

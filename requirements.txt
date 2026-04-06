@@ -1,5 +1,6 @@
 torch
 numpy
 matplotlib
-sumo
-serial
+sumolib
+traci
+pyserial
